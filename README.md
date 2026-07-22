@@ -170,7 +170,7 @@ For each query sequence, the pipeline performs the following steps:
 
 ## Author
 
-Kevin Ayala Vilchis
+Roxana Chavez & Kevin Ayala Vilchis
 
 Undergraduate Research Project
 University of Texas at El Paso (UTEP)
